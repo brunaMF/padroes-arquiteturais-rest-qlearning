@@ -1,0 +1,3 @@
+Method,Name,Error,Occurrences
+POST,POST /recommendations/feedback,CatchResponseError('status: 500'),15
+GET,GET /recommendations/{user_id},CatchResponseError('status: 500'),42
