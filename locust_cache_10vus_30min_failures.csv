@@ -1,3 +1,1 @@
 Method,Name,Error,Occurrences
-POST,POST /recommendations/feedback,CatchResponseError('status: 401'),8243
-GET,GET /recommendations/{user_id},CatchResponseError('status: 401'),11258
